@@ -1,2 +1,2 @@
-# Tarea semana 3
- Semana 3 Mascotas, Recycler View y Action View
+# Petagram-Recycler-View-y-Action-View
+tarea de la semana 3 de coursera
